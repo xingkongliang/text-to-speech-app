@@ -1,0 +1,34 @@
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+
+# PyInstaller build files
+build/
+dist/
+*.spec
+
+# MacOS system files
+.DS_Store
+
+# IDE files
+.idea/
+.vscode/
+*.log
+
+# Python debug files
+*.pyo
+*.log
+*.tmp
+
+# Custom folders (add as needed)
+audio_files/
+output/
+TTSapp/
+
+others.md
+
